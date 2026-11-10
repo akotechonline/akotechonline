@@ -4,7 +4,7 @@
 
 I've spent years as a web developer and UI/UX designer: I built client websites in Lagos and designed product interfaces for a Canadian technology team. Today I work where libraries, the web and AI meet.
 
-- 🔎 **Research areas:** AI-mediated information seeking · information retrieval and AI-enhanced search · trust, transparency and responsible information systems · information behaviour
+- 🔎 **Research areas:** web accessibility · AI-mediated information seeking · information retrieval and AI-enhanced search · trust, transparency and responsible information systems · information behaviour
 - 💼 **My work covers:** web development · digital accessibility (WCAG) · AI literacy and AI integration · UX research and design · information literacy instruction · research support
 - 🌍 **Building:** small web tools that test how people search, including **NaijaTalk**, a chat assistant that answers in Yoruba, Igbo and Hausa.
 
@@ -12,10 +12,11 @@ I've spent years as a web developer and UI/UX designer: I built client websites 
 
 #### 🛠 What I work with
 
-- **Web:** WordPress (custom themes and Elementor widgets) · PHP · JavaScript · TypeScript · React · Tailwind CSS · HTML/CSS · MySQL
+- **Web:** WordPress (custom themes and Elementor widgets) · Drupal · Webflow · PHP · JavaScript · TypeScript · React · Tailwind CSS · HTML/CSS · MySQL
 - **Data and AI:** Python · Streamlit · AI-enhanced search and AI literacy
 - **Design:** Figma · user research and usability testing · design systems · WCAG 2.1/2.2 AA audits and remediation
-- **Library systems:** Alma · Primo VE · Springshare (LibGuides)
+- **Library systems:** Alma · Primo VE · Springshare (LibGuides) · Zotero
+- **Tools:** Git and GitHub · WP-CLI
 
 ---
 
